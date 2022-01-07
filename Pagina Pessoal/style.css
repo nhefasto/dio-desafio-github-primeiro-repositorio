@@ -1,0 +1,62 @@
+
+body {
+    background: #ccc;
+    font-family: Verdana;
+}
+#title, .subtitle, .post_title {
+    color: red;
+}
+.post_title {
+    color:rgb(246, 250, 246);
+    font-size: 16px;
+    font-style: italic;
+}
+#title {
+    color:black;
+}
+.subtitle {
+    color:blue;
+    font-size: 24px;
+    font-style: italic;
+    margin-top:  50px;
+}
+.post {
+    background: rgb(10, 10, 10);
+    padding: 10px;
+    border: 3px solid rgb(4, 8, 247);
+    border-radius: 15px;
+    margin-bottom: 50px;
+    margin-top: 5px;
+}
+.fotoPerfil {
+    padding: 10px;
+    border: 3px solid #000;
+    display: inline-block;
+    border-radius: 15px;
+}
+.foto {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+}
+.divImagens {
+    width: 100%;
+}
+.texto {
+    color: aliceblue;
+}
+.contato {
+    color: #000;
+    font-family: impact;
+    margin-top: 20px;
+    margin: 0%;
+}
+.contato2 {
+    margin: 5px;
+}
+.capa {
+    width: 100%;
+}
